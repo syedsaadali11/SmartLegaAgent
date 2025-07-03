@@ -74,19 +74,17 @@ The app was semantically trained and embedded on curated datasets from the follo
 
 ---
 
-## 📸 Screenshots
+## 📸 Test Samples
 
-| Welcome Screen               | Input Prompt                 | Legal Answer Display          |
-|-----------------------------|------------------------------|-------------------------------|
-| ![](assets/q1.png)          | ![](assets/q2.png)           | ![](assets/q3.png)            |
-
-| Web Search Context           | Section-Cited Answer         | Invalid Foreign Query Warning |
-|-----------------------------|------------------------------|-------------------------------|
-| ![](assets/q4.png)          | ![](assets/q5.png)           | ![](assets/q6.png)            |
-
-| System Architecture Overview |
-|------------------------------|
-| ![](assets/q7.png)           |
+<p align="center">
+  <img src="assets/q1.png" width="300"/>
+  <img src="assets/q2.png" width="300"/>
+  <img src="assets/q3.png" width="300"/>
+  <img src="assets/q4.png" width="300"/>
+  <img src="assets/q5.png" width="300"/>
+  <img src="assets/q6.png" width="300"/>
+  <img src="assets/q7.png" width="600"/>
+</p>
 
 ---
 
