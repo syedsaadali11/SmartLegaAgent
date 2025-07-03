@@ -38,3 +38,6 @@ originalcode.py
 
 # ─── Jupyter Notebooks (optional) ──────────────────────
 *.ipynb
+
+list_files.py
+requirements.txt 
